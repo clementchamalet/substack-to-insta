@@ -1,6 +1,7 @@
 {
   "name": "substack-to-insta",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "Generate Instagram carousel slides from Substack articles.",
   "type": "module",
   "bin": {
